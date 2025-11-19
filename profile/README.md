@@ -16,6 +16,12 @@ Here’s the **map of all worlds (repos)** inside our org:
 - [**githubsync**](https://github.com/gamersend/githubsync) – GitHub sync automations  
 - [**heimdall-unlimited-private**](https://github.com/gamersend/heimdall-unlimited-private) – Heimdall dashboard (private edition)  
 - [**bolt-diy-private**](https://github.com/gamersend/bolt-diy-private) – bolt.diy project (private edition)  
+- [**aibrain**](https://github.com/gamersend/aibrain) – AI brain core 🧠
+- [**blaze-dev-buddy**](https://github.com/gamersend/blaze-dev-buddy) – AI development companion 🔥
+- [**macmm2mcp**](https://github.com/gamersend/macmm2mcp) – Mac Mouse to MCP bridge
+- [**mcp-dashboard**](https://github.com/gamersend/mcp-dashboard) – Dashboard for Model Context Protocol
+- [**playwright-mcp-server**](https://github.com/gamersend/playwright-mcp-server) – Playwright MCP integration
+- [**supabase-nexus**](https://github.com/gamersend/supabase-nexus) – Supabase integration nexus
 
 ---
 
@@ -32,6 +38,7 @@ Here’s the **map of all worlds (repos)** inside our org:
 - [**homie-basket**](https://github.com/gamersend/homie-basket) – AI grocery + pantry tracker 🥦  
 - [**famportal**](https://github.com/gamersend/famportal) – Family management portal  
 - [**BraveHome**](https://github.com/gamersend/BraveHome) – Brave Browser homepage replacement w/ full suite  
+- [**homieland-ai-studio**](https://github.com/gamersend/homieland-ai-studio) – AI studio for smart home automation
 
 ---
 
@@ -47,6 +54,9 @@ Here’s the **map of all worlds (repos)** inside our org:
 - [**pixelhotel**](https://github.com/gamersend/pixelhotel) – Vaporwave hotel management sim  
 - [**habvault**](https://github.com/gamersend/habvault) – Habbo data & vault  
 - [**skatehub**](https://github.com/gamersend/skatehub) – Skater’s digital hub 🛹  
+- [**flytown**](https://github.com/gamersend/flytown) – Flying adventure game
+- [**habit-crush-quest**](https://github.com/gamersend/habit-crush-quest) – Gamified habit tracker quest
+- [**habit-nexus-saga**](https://github.com/gamersend/habit-nexus-saga) – Epic habit tracking saga
 
 ---
 
@@ -58,6 +68,9 @@ Here’s the **map of all worlds (repos)** inside our org:
 - [**warp-canvas-flow**](https://github.com/gamersend/warp-canvas-flow) – Infinite AI-powered canvas collab space 🎨  
 - [**icon-dash**](https://github.com/gamersend/icon-dash) – Icon library + collections  
 - [**ADHD-Website**](https://github.com/gamersend/ADHD-Website) – ADHD-friendly web playground 🧠⚡  
+- [**aether-spark-calendar**](https://github.com/gamersend/aether-spark-calendar) – Spark your schedule ⚡
+- [**developerdashboard**](https://github.com/gamersend/developerdashboard) – The ultimate dev dashboard
+- [**sidenotey**](https://github.com/gamersend/sidenotey) – Quick side notes app
 
 ---
 
@@ -80,6 +93,9 @@ Here’s the **map of all worlds (repos)** inside our org:
 - [**sugary-dreams**](https://github.com/gamersend/sugary-dreams) – Kawaii eco dessert platform 🍬  
 - [**web-obsidian-forge**](https://github.com/gamersend/web-obsidian-forge) – Obsidian web tools  
 - [**neuro-dopamine-nexus**](https://github.com/gamersend/neuro-dopamine-nexus) – Brain candy AI experiments 🧠⚡  
+- [**comicalgee**](https://github.com/gamersend/comicalgee) – Comical experiments
+- [**omniclip**](https://github.com/gamersend/omniclip) – Universal clipper tool
+- [**raglife**](https://github.com/gamersend/raglife) – RAG (Retrieval Augmented Generation) experiments
 
 ---
 
@@ -95,9 +111,13 @@ Here’s the **map of all worlds (repos)** inside our org:
 - [**tree-tracker**](https://github.com/gamersend/tree-tracker) – Tree data tracker 🌳  
 - [**biztrack2025**](https://github.com/gamersend/biztrack2025) – Business tracking system  
 - [**ShopNRollGrow**](https://github.com/gamersend/ShopNRollGrow) – E-comm grow shop tools  
+- [**blank1**](https://github.com/gamersend/blank1) – Scratchpad & experiments
+- [**foundationlimit**](https://github.com/gamersend/foundationlimit) – Foundation limits tracker
+- [**newpro**](https://github.com/gamersend/newpro) – New project template
+- [**ultimate-telegram-bot**](https://github.com/gamersend/ultimate-telegram-bot) – The ultimate bot 🤖
 
 ---
 
 # 🗺️ Navigation
-👉 This README is your **compass** 🧭 through Gamersend’s 59 lands.  
-Each repo = a world. Some are private dungeons, some public arcades.  
+👉 This README is your **compass** 🧭 through Gamersend’s 69 lands.  
+Each repo = a world. Some are private dungeons, some public arcades.
